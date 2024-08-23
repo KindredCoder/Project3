@@ -1,5 +1,5 @@
 # Project3 - SC210 August 2024 Term
-<a href="https://kindredcoder.github.io/Portfolio/#projects">My Work-In-Progress Portfolio</a>
+<a href="https://kindredcoder.github.io/Portfolio">My Work-In-Progress Portfolio</a>
 
 <h2>Summarize the project and what problem it was solving.</h2>
   <p>During this project, we were tasked to create an application that could pass in a .txt document with data provided by a hypothetical company 'Corner Grocer' and then assist the user with visualizing and interpreting each data point to understand the frequency of items sold. We also needed to make a user-friendly menu system that would allow you to search through the items, see the frequency of each item that was captured from the .txt document, make a histogram of the same data, and then finally allow the user to quit the application. The data had to be output on a frequency.dat file that showed the relevant data we captured as well.
